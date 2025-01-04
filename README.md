@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 - ## Live Demo
 
-You can check out the live version of the app on Render here: [Live Demo](https://your-app-name.onrender.com)
+You can check out the live version of the app on Render here: [Live Demo](https://cinevault-2gve.onrender.com)
 
